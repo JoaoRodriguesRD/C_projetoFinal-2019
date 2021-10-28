@@ -1248,9 +1248,9 @@ void menu_apostas(tapostadores apost[MAX_APOSTADORES], tbolao bolao[1])
 	/*
 	1- Novo
 	2- Alterar
-	3- Finalizar (faz o campo finalizado do bolão desejado igual a 1)
+	3- Finalizar (faz o campo finalizado do bolÃ£o desejado igual a 1)
 	4- Imprimir
-	5- Verificar Ganhador (Insira os 6 números sorteados na Mega-Sena.)
+	5- Verificar Ganhador (Insira os 6 nÃºmeros sorteados na Mega-Sena.)
 	0- Sair
 	*/
 	do
